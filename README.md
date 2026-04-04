@@ -192,7 +192,7 @@ Switzerland. Moving toward it, one commit at a time.
   <img src="https://github.r2v.ch/codewars?user=ANovelForStudy&stroke=%23BB432C" alt="CodeWars Badge" />
 </p>
 
-## 🌐 Connect with Me
+## 📞 Socials
 
 <p align="center">
   <a href="https://t.me/ANovelForStudy">
@@ -200,6 +200,12 @@ Switzerland. Moving toward it, one commit at a time.
   </a>
   <a href="mailto:anovelforstudy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+   <a href="https://www.codewars.com/users/ANovelForStudy">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ANovelForStudy/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <!-- <a href="https://linkedin.com/in/your-username">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

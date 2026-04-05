@@ -56,7 +56,7 @@ Switzerland. Moving toward it, one commit at a time.
 <h3 align="center">🎨 Frontend & Design</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs,vuetify,tailwind,pinia,bulma,bootstrap,vite,webpack,figma,ps,ai,flutter&titles=true&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs,vuetify,tailwind,pinia,bulma,bootstrap,vite,webpack,figma,ps,ai,qt,flutter&titles=true&theme=dark" />
   </a>
 </p>
 

@@ -71,7 +71,7 @@ Switzerland. Moving toward it, one commit at a time.
 <h3 align="center">🐳 DevOps & Infrastructure</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,podman,kubernetes,argocd,helm,nginx,github,gitlab,terraform,ansible,virtualbox,vmwareworkstation&titles=true&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,podman,kubernetes,argocd,helm,github,gitlab,terraform,ansible,virtualbox,vmwareworkstation&titles=true&theme=dark" />
   </a>
 </p>
 

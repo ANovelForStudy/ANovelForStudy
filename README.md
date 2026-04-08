@@ -40,66 +40,58 @@ Switzerland. Moving toward it, one commit at a time.
 
 <h3 align="center">⚡ Core Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,ts,js,css,html,regex" />
+  <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash" />
 </p>
 
 <h3 align="center">🔬 Exploring & Tinkering</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,php,dart,zig,nim,haskell,lua" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,dart,haskell,lua" />
 </p>
 
-<h3 align="center">⚙️ Editors</h3>
+<h3 align="center">⚙️ Environment</h3>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodeinsiders,visualstudio,pycharm,vim,neovim&titles=true&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodeinsiders,neovim,git,arch,kali,nixos&titles=true&theme=dark" />
 </p>
 
 <h3 align="center">🎨 Frontend & Design</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs,vuetify,tailwind,pinia,bulma,bootstrap,vite,webpack,figma,ps,ai,qt,flutter&titles=true&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs,nuxtjs,vite,pinia,tailwind,flutter,figma,ps,ai&titles=true&theme=dark" />
   </a>
 </p>
 
 <h3 align="center">🗄️ Databases & Message Brokers</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,elasticsearch,cassandra" /> -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,redis,keydb,kafka,rabbitmq,celery,elasticsearch,clickhouse,cassandra&titles=true&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,redis,keydb,elasticsearch,clickhouse,kafka,rabbitmq,celery&titles=true&theme=dark" />
   </a>
 </p>
 
 <h3 align="center">🐳 DevOps & Infrastructure</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,podman,kubernetes,argocd,helm,github,gitlab,terraform,ansible,virtualbox,vmwareworkstation&titles=true&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,argocd,helm,gitlab,terraform,ansible&titles=true&theme=dark" />
   </a>
 </p>
 
 <h3 align="center">📊 Backend & API Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,flask,litestar,actix,rocket,nginx,postman,insomnia&titles=true&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,litestar,actix,nginx,postman&titles=true&theme=dark" />
   </a>
 </p>
 
 <h3 align="center">🔍 Monitoring, Logging & Testing</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,kibana,jaeger,opentelemetry,pytest,selenium,sonarqube&titles=true&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">🐧 Operating Systems</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,arch,manjaro,debian,ubuntu,mint,kali,fedora,nixos,bash,powershell&titles=true&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,kibana,opentelemetry,pytest,selenium,sonarqube&titles=true&theme=dark" />
   </a>
 </p>
 
 <h3 align="center">🎮 For Fun</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=unity,unreal,godot,bevy,blender,davinci,au,ae,pr,lightroom&titles=true&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=godot,bevy,blender,au,ae,pr&titles=true&theme=dark" />
   </a>
 </p>
 

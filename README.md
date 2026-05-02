@@ -183,7 +183,10 @@ Switzerland. Moving toward it, one commit at a time.
   <a href="https://leetcode.com/u/ANovelForStudy/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <!-- <a href="https://linkedin.com/in/your-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://monkeytype.com/profile/ANovelForStudy">
+    <img src="https://img.shields.io/badge/Monkeytype-171a25?style=for-the-badge&logo=monkeytype&logoColor=yellow" />
+  </a>
+  <!-- <a href="https://linkedin.com/in/ANovelForStudy">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> -->
 </p>

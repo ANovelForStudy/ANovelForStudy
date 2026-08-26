@@ -38,102 +38,46 @@ Switzerland. Moving toward it, one commit at a time.
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">⚡ Core Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash" />
-</p>
+<h3 align="center">🛠️ Tech Stack & Ecosystem</h3>
 
-<h3 align="center">🔬 Exploring & Tinkering</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,dart,haskell,lua" />
-</p>
-
-<h3 align="center">⚙️ Environment</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodeinsiders,neovim,git,arch,kali,nixos&titles=true&theme=dark" />
-</p>
-
-<h3 align="center">🎨 Frontend & Design</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs,nuxtjs,vite,pinia,tailwind,flutter,figma,ps,ai&titles=true&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">🗄️ Databases & Message Brokers</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,redis,keydb,elasticsearch,clickhouse,kafka,rabbitmq,celery&titles=true&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">🐳 DevOps & Infrastructure</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,argocd,helm,gitlab,terraform,ansible&titles=true&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">📊 Backend & API Development</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,litestar,actix,nginx,postman&titles=true&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">🔍 Monitoring, Logging & Testing</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,kibana,opentelemetry,pytest,selenium,sonarqube&titles=true&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">🎮 For Fun</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=godot,bevy,blender,au,ae,pr&titles=true&theme=dark" />
-  </a>
-</p>
-
-<details>
-<summary><h3>🗺️ Other Tools & Technologies</h3></summary>
-<br/>
-
-> *Technologies that don't have skillicons - but are part of my workflow*
-
-<h3 align="center">🗺️ Geospatial</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostGIS-00A650?style=for-the-badge&logo=postgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/TileServer_GL-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
-</p>
-
-<h3 align="center">🗄️ Databases & Storage</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/ParadeDB-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenSearch-005571?style=for-the-badge&logo=opensearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Valkey-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KeyDB-FF0000?style=for-the-badge" />
-</p>
-
-<h3 align="center">🧪 Testing & API Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Bruno-FF7A2F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Yaak-C226D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hypothesis-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Locust-2E8B57?style=for-the-badge" />
-</p>
-
-<h3 align="center">🐚 Shells & CLI</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fish-1E8CBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
-</p>
-
-</details>
+<table align="center">
+  <tr>
+    <td align="right"><b>⚡ Core</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,go,ts,js,bash" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🔬 Exploring</b></td>
+    <td><img src="https://skillicons.dev/icons?i=rust,c,cpp,dart,haskell,lua,zig,nim" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️ Environment</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vscodeinsiders,neovim,git,arch,kali,nixos&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🎨 Frontend</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs,nuxtjs,vite,pinia,tailwind,flutter,figma,ps,ai&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️ Databases</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,redis,keydb,elasticsearch,clickhouse,kafka,rabbitmq,celery&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🐳 DevOps</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,argocd,helm,gitlab,terraform,ansible&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>📊 Backend</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,litestar,actix,nginx,postman&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🔍 QA & Monitor</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,kibana,opentelemetry,pytest,selenium,sonarqube&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🎮 For Fun</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=godot,bevy,blender,au,ae,pr&theme=dark" /></td>
+  </tr>
+</table>
 
 ## 📈 GitHub Analytics
 
